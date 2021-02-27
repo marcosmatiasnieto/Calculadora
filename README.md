@@ -1,3 +1,3 @@
 # Calculadora
 
-# Uso de operaciones basicas: suma, resta, multiplicacion y division
+# Uso de operaciones básicas: suma, resta, multiplicación y división
